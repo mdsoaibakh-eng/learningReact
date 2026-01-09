@@ -8,15 +8,7 @@ const Home = () => {
       <p className="mt-2">Learn anything, anytime, anywhere.</p>
 
       <div className="mt-4 space-x-4">
-        <Link to="/login" className="text-blue-500">
-          Login
-        </Link>
-        <Link to="/courses" className="text-blue-500">
-          Browse Courses
-        </Link>
-        <Link to="/about" className="text-blue-500">
-          About Us
-        </Link>
+       
       </div>
     </div>
   );
